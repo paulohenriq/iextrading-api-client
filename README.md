@@ -31,12 +31,12 @@ Se você gostaria de fazer um pouco mais, sugerimos os seguintes desafios:
 Itens que foram concluídos:
 
 Pré-requisitos:
-[x] Crie uma tela apenas com um input de texto que receberá um símbolo de ação e retornará o último valor de ação da empresa;
-[x] Obter dados extras da empresa;
-[x] Utilizar componentes React para montar a interface e Redux para controlar o estado;
-[x] Plotar um gráfico com a evolução do valor das ações. Foi Utilizado o pacote [Recharts].
+* [x] Crie uma tela apenas com um input de texto que receberá um símbolo de ação e retornará o último valor de ação da empresa;
+* [x] Obter dados extras da empresa;
+* [x] Utilizar componentes React para montar a interface e Redux para controlar o estado;
+* [x] Plotar um gráfico com a evolução do valor das ações. Foi Utilizado o pacote [Recharts].
 
 Extra:
-[x] Componentes reutilizáveis com Styled-Components;
-[ ] Atualizações: a API é atualizada quase em tempo real;
-[ ] Exibir em formato de marquee o valor e variação percentual do valor das ações.
+* [x] Componentes reutilizáveis com Styled-Components;
+* [ ] Atualizações: a API é atualizada quase em tempo real;
+* [ ] Exibir em formato de marquee o valor e variação percentual do valor das ações.
