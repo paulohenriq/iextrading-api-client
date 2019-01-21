@@ -8,6 +8,7 @@ import Search from '../Search'
 import Infos from '../Infos'
 import Details from '../Details'
 import Chart from '../Chart'
+import News from '../News';
 
 class App extends Component{
 
@@ -32,6 +33,7 @@ class App extends Component{
               </Column>            
               <Column mobile='12' tablet='4' desktop='4'>
                 <Details />
+                <News />
               </Column>         
             </Row>             
           </Container>
